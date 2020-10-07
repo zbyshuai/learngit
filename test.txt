@@ -3,3 +3,4 @@ git is a very good softwar
 new infomatione
 hello world
 new info1
+Git has a mutable index called stage.
