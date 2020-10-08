@@ -11,4 +11,4 @@ Creating a new branch is quick AND simple
 learn branch knowlage.
 write in dev.
 write in dwv.
-I fixed bug..
+I fixed bug.....
